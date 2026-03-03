@@ -49,6 +49,6 @@ Python · Bash · PowerShell · Kali · Metasploit · BurpSuite · Impacket · B
 
 I Like training calisthenics
 
-I also like to study languages and immerse different cultures
+I also like to study languages and immerse in different cultures
 
 <sub>always running another box</sub>
