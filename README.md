@@ -1,4 +1,4 @@
-Hi, I'm [Sean](https://linktr.ee/s3qn) 👋
+Hi, I'm [Sean](https://linktr.ee/s3qn) 
 
 Offensive security practitioner based in israel. 2 years of practical experience breaking things across windows, linux, and web applications, methodically and with good documentation.
 
@@ -43,5 +43,10 @@ Python · Bash · PowerShell · Kali · Metasploit · BurpSuite · Impacket · B
 [![HackTheBox](https://img.shields.io/badge/hackthebox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1982537)
 
 ---
+
+**Random Facts**
+
+I Like training calisthenics
+I also like to study languages and immerse different cultures
 
 <sub>always running another box</sub>
