@@ -1,4 +1,4 @@
-Hi, I'm Sean 👋
+Hi, I'm [Sean](https://linktr.ee/s3qn) 👋
 
 Offensive security practitioner based in israel. 2 years of practical experience breaking things across windows, linux, and web applications, methodically and with good documentation.
 
