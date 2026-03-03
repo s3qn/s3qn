@@ -12,8 +12,8 @@ Python · Bash · PowerShell · Kali · Metasploit · BurpSuite · Impacket · B
 
 | cert | issuer | date |
 |---|---|---|
-| PNPT | TCM Security | oct 2025 |
-| eJPT | INE / eLearnSecurity | sep 2024 |
+| PNPT | TCM Security | Oct 2025 |
+| eJPT | INE / eLearnSecurity | Sep 2024 |
 
 ---
 
