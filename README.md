@@ -11,8 +11,9 @@ Python · Bash · PowerShell · Kali · Metasploit · BurpSuite · Impacket · B
 
 **Certifications**
 
-| cert | issuer | date |
+| Cert | Issuer | Date |
 |---|---|---|
+| CPTS | Hack The Box | Mar 2026 |
 | PNPT | TCM Security | Oct 2025 |
 | eJPT | INE / eLearnSecurity | Sep 2024 |
 
