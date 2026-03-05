@@ -25,7 +25,6 @@ Python · Bash · PowerShell · Kali · Metasploit · BurpSuite · Impacket · B
 |---|---|
 | [ReconSuite](https://github.com/s3qn/ReconSuite) | Simple Offensive Reconniassance Tools Im Building Mostly In Python |
 | AD home lab | 3-node AD environment — LLMNR poisoning, SMB relays, lateral movement, password spraying |
-| Larch × Morphisec | anti-ransomware analysis in isolated labs; obfuscated shells to test defender bypass |
 | [Pentesting Methodology](https://www.notion.so/Pentesting-Methodology-24463f0930fc80f69181d707d75848ee) | personal notion reference — recon → scanning → exploitation → post-exploitation |
 
 ---
